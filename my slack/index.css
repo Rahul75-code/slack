@@ -1,0 +1,83 @@
+body{
+    font-size: 80%;
+}
+.col-2{
+    position: static;
+    background-color:rgba(75, 38, 79, 0.897);
+}
+.col-10 {
+    background-color: transparent;
+    width: 100%;
+}
+.left-text{
+    color: aliceblue;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.fa-bell-o{
+    margin-top: -17px;
+}
+.line-height{
+    line-height: 90%;
+}
+.green{
+    list-style: none;
+}
+  
+  #green {
+    text-indent: -40px;
+  }
+  
+  #green::before {
+    content: "• ";
+    color: rgb(6, 218, 6); 
+  }
+.opa {
+    color: rgba(255, 255, 255, 0.775);
+}
+#des {
+    color: rgba(255, 255, 255, 0.959);
+    font-weight: bold;
+}
+
+.margin-left{
+    margin-left: -20px;
+}
+.fixed-top{
+    margin-left: 214px;
+}
+ .navbar{
+    margin-left: -15px;
+    margin-right: -15px;
+    
+} 
+.navbar-brand{
+    margin-left: -5px;
+    margin-bottom: -20px;
+} 
+.font-size{
+    font-size: 70%;
+}
+.line{
+    LINE-HEIGHT:10%;
+}
+.media {
+    height: 55px;
+}
+.media-body {
+    LINE-HEIGHT: 2px;
+}
+.opa2 {
+    opacity: 0.5;
+}
+
+.img3 {
+    height: 170px;
+    width: 350px;
+    margin-left: 30px;
+}
+.mr-3 {
+    width: 35px;
+    height: 35px;
+}
